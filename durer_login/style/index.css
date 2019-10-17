@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+}
+
+.bgimg {
+  background-image: url("../img/moon.jpg");
+  background-size: cover;
+  background-position: 50% 75%;
+  min-height: 100%;
+}
+
+.headdiv {
+  padding: 3%;
+}
+
+h1 {
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-shadow: 3px 2px purple;
+  font-style: italic;
+  color: black;
+  text-align: center;
+}
+
+.but {
+  text-transform: uppercase;
+  color: black;
+  text-shadow: 1px 1px black;
+}
+
+.in {
+  text-shadow: 1px 1px white;
+}
