@@ -1,2 +1,2 @@
 # durer_login
-Login page for Durer competition.
+Login page for Durer-competition.
